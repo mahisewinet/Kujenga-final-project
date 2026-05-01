@@ -61,9 +61,9 @@ The notebook is organized into 8 sections:
 ## How to Run
 
 1. Clone this repository
-2. Make sure you have the required libraries installed:
+2. Install the required libraries:
    ```
-   pip install pandas numpy matplotlib seaborn scipy statsmodels
+   pip install -r requirements.txt
    ```
 3. Open `mahlet_ethiopia_final_project.ipynb` in Jupyter Notebook or JupyterLab
 4. Run all cells from top to bottom
