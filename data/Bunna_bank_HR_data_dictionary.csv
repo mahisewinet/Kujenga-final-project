@@ -1,0 +1,7 @@
+Variable,Label,Type,Measure,N_Missing,Range_or_Values,Value_Labels,
+Sex,"Sex of the employee (f = Female, m = Male)",string,nominal,0,"f, m",f=Female, m=Male
+YearsOfEducation,Total years of formal education completed,numeric,ordinal,0,10 to 21,,
+CurrentMonthlySalary,Employee's current monthly salary,numeric,scale,0,15750 to 135000,,
+StartingMonthlySalary,Monthly salary at the time of hiring,numeric,scale,0,9000 to 79980,,
+MonthsAtBunnaBank,"Length of service at Bunna Bank, in months",numeric,scale,0,63 to 120,,
+PriorExperienceMonths,"Prior work experience before joining Bunna Bank, in months",numeric,scale,0,0 to 476,,
